@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Himani Naveen Joshi
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/himani-naveen-joshi/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himani-naveen-joshi/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanij11)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@himanij2451)
 <img src="https://komarev.com/ghpvc/?username=himanij11&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -114,3 +114,14 @@ Passionate AI & ML Engineer with an expertise in developing scalable solutions, 
 - 📝 Published research paper in IEEE Xplore on advanced machine learning techniques [See IEEE Paper](https://ieeexplore.ieee.org/document/9544719)
 - ✍️ Author of popular Medium article on Generative AI [See Medium Article](https://medium.com/sfu-cspmp/picasso-of-the-future-1f7a85f252f3)
 - 🎓 Masters in Computer Science (Big Data Specialization) from Simon Fraser University
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="mailto:himanij2451@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="himanij2451@gmail.com" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/himani-naveen-joshi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himani-naveen-joshi" height="30" width="40" /></a>
+  <a href="https://x.com/himanij11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himanij11" height="30" width="40" /></a>
+   <a href="https://stackoverflow.com/users/15331697/himani?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="himani" height="30" width="40" /></a>
+  <a href="https://www.kaggle.com/himanijoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="himanijoshi" height="30" width="40" /></a>
+</p>
