@@ -30,7 +30,7 @@ Passionate AI & ML Engineer with an expertise in developing scalable solutions, 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 </p>
 
-### 🚀 GenAI Technologies
+### GenAI Technologies
 
 - 💬 LLMs (Large Language Models) – GPT, LLama
 
