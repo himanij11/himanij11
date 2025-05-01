@@ -1,9 +1,12 @@
-# 👋 Hi, I'm Himani Naveen Joshi
+# 👋 Hi, I'm Himani
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himani-naveen-joshi/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanij11)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@himanij2451)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himani-naveen-joshi/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanij11)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://himanij11.github.io/himaninaveenjoshi/)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@himanij2451)  
+
 <img src="https://komarev.com/ghpvc/?username=himanij11&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+
 
 Passionate AI & ML Engineer with an expertise in developing scalable solutions, building advanced machine learning models, and optimizing data pipelines to drive impactful insights. Currently exploring the intersection of AI and Cloud Computing to solve complex business problems.
 
@@ -20,12 +23,34 @@ Passionate AI & ML Engineer with an expertise in developing scalable solutions, 
 ### Programming Languages
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 </p>
+
+### 🚀 GenAI Technologies
+
+- 💬 LLMs (Large Language Models) – GPT, LLama
+
+- 🔗 LangChain – Chain orchestration, agents, tools
+
+- 🤗 Hugging Face – Transformers, datasets, models hub
+
+- 🦙 Ollama – Lightweight local LLM runtime
+
+- 📦 Vector Embeddings – ChromaDB, FAISS, OpenAI embeddings
+
+- ✨ Prompt Engineering – Few-shot, zero-shot, chain-of-thought
+
+- 🔍 Retrieval-Augmented Generation (RAG) – Knowledge-augmented Q&A
+
+- 🎯 Few-shot Learning – Pattern-based generalization
+
+- 🧠 AI Agents & Tools – LangChain Agents, ReAct, tool calling
+
+
 
 
 ### Deep Learning Technologies
